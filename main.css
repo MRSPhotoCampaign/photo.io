@@ -7,10 +7,6 @@ body {
   font-family: sans-serif;
 }
 
-header {
-  
-}
-
 .logocrop {
   position: absolute;
   margin-top: 0px;
@@ -18,7 +14,7 @@ header {
 }
 #logocrop {
  
-  height: 500px;
+  height: 450px;
  
   
 }
